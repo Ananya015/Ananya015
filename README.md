@@ -1,4 +1,4 @@
-### Hi everyone 👋, I'm Ananya Jain �👩‍💻
+### Hi everyone 👋, I'm Ananya Jain 👩‍💻
 
 --------------
 - 🔭 I’m currently working on MERN Stack Development & J2SE.
