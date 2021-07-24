@@ -1,11 +1,11 @@
 ### Hi everyone 👋, I'm Ananya Jain 👩‍💻
 
 --------------
-- 🔭 I’m currently working on MERN Stack Development & J2SE.
+- 🔭 I’m currently working on Web Development & J2SE.
 - 🌱 I’m currently learning React.js and Express.js along with Node.js, MongoDB and MySQL database (MERN Stack).
 - 🎓 Scopus Indexed Research Paper (ICETCE 2021) - "Trending Youtube Video Ananlysis".
 - 👯 I’m looking to collaborate on Web Projects (MERN Stack) and for job oppourtunities in Web Development.
-- 💻 Worked on many technologies and frameworks - Java, React.Js, Express.Js Machine Learning, Python, HTML, CSS, JavaScript, Bootstrap, JDBC, MongoDB, MySQL.
+- 💻 Worked on many technologies and frameworks - Java, React.Js, Express.Js, Python, HTML, CSS, JavaScript, Bootstrap, JDBC, MongoDB, MySQL.
 - 📫 Want to contact me : jainananya78@gmail.com
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Ananya015" alt="Ananya015"/> </p>
